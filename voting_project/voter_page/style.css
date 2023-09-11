@@ -1,0 +1,26 @@
+.text-white{
+    color: white;
+   
+}
+.bg-white{
+    background-color: white;
+}
+.bg-black{
+    background-color: black;
+    
+}
+.text-black{
+    color: black;
+}
+.bg-light{
+    background-color: rgb(247, 108, 205) !important;
+}
+.candidate_photo{
+    width: 80px;
+    height: 80px;
+    border: 5px solid rgb(247, 108, 205);
+    border-radius: 100%;
+}
+.bg-light{
+    background-color: rgb(247, 108, 205);
+}
